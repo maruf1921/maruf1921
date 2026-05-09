@@ -13,13 +13,6 @@ I'm a passionate and dedicated Computer Science and Engineering student with a s
 </p>
 
 
-
-<h2> Stats </h2>
-
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruf1921&show_icons=true&count_private=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruf1921&theme=great-gatsby&layout=compact)](https://github.com/maruf1921)
-
-
 <h2> Skills </h2>
 
 <h4> Languages </h4>
